@@ -1,0 +1,6 @@
+{
+  "name": "NTP Pro",
+  "description": "News Trace Proof Pro: A professional-grade global misinformation scanner and fake news identifier. Powered by advanced AI for text and screenshot analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
